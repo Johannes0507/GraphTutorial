@@ -1,0 +1,5 @@
+﻿<ItemGroup>
+	<None Include="appsettings.json">
+		<CopyToOuputDirectory>Always</CopyToOuputDirectory>
+	</None>
+</ItemGroup>
